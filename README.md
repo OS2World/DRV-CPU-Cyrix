@@ -5,7 +5,9 @@ Driver for Cyrix 486DLC internal cache.
 * BSD 3-Clause
 
 ## COMPILE TOOLS
-* 
+* MASM
+* LINK
+* mapsym
  
 ## AUTHORS
 * 
